@@ -3,7 +3,7 @@
 # I'm Muhammad Kaif Qureshi
 A Computer Science student with a strong interest in programming and problem-solving. I enjoy building and learning from small-scale projects, which help me apply theoretical concepts in practical scenarios. I am also deeply curious about how systems work under the hood, and I actively explore underlying mechanisms to strengthen my understanding and technical expertise.<br>
 
-#
+##
 
 ##  Skills & Tools
 
